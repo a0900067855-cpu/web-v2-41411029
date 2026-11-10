@@ -1,0 +1,7 @@
+{
+  "name": "BFH Hotel - Luxury Hotel & Online Booking",
+  "description": "五星級頂級住宿體驗，提供精緻客房套房、美饌饗宴、休閒設施與尊榮即時線上訂房系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

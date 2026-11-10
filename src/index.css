@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Cormorant Garamond', 'Noto Serif TC', serif;
+  --font-display: 'Cinzel', serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --color-gold-400: #d8bc93;
+  --color-gold-500: #c5a880;
+  --color-gold-600: #b18e5e;
+  --color-gold-700: #8d6b3a;
+  --color-hotel-dark: #121417;
+  --color-hotel-surface: #1a1e24;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.font-serif-luxury {
+  font-family: 'Cormorant Garamond', 'Noto Serif TC', Georgia, serif;
+}
+
+.font-display-luxury {
+  font-family: 'Cinzel', serif;
+}
